@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "85b93d12-a0d9-48e7-9e92-62181111704f": {
+      "ProjectGuid": "85b93d12-a0d9-48e7-9e92-62181111704f",
+      "DisplayName": "EcoSphereHashVersion",
+      "ColorIndex": 0
+    },
+    "38c9480f-5c2f-46a4-98d6-f5b1435a6ab1": {
+      "ProjectGuid": "38c9480f-5c2f-46a4-98d6-f5b1435a6ab1",
+      "DisplayName": "EcoSphereHashVersion.Tests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
