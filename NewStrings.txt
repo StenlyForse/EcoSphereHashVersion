@@ -1,0 +1,1 @@
+"Symbol","Description","Date","Time","Open","High","Low","Close","TotalVolume"

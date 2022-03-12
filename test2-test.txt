@@ -1,0 +1,2 @@
+"Symbol","Description","Date","Time","Open","High","Low","Close","TotalVolume"
+AAPL,NASDAQ,02.01.2020,08:00:00,295.890,296.750,295.435,296.700,175410

@@ -1,0 +1,15 @@
+C:\Users\Alex\source\repos\EcoSphereHashVersion\EcoSphereHashVersion\bin\Debug\net6.0\EcoSphereHashVersion.exe
+C:\Users\Alex\source\repos\EcoSphereHashVersion\EcoSphereHashVersion\bin\Debug\net6.0\EcoSphereHashVersion.deps.json
+C:\Users\Alex\source\repos\EcoSphereHashVersion\EcoSphereHashVersion\bin\Debug\net6.0\EcoSphereHashVersion.runtimeconfig.json
+C:\Users\Alex\source\repos\EcoSphereHashVersion\EcoSphereHashVersion\bin\Debug\net6.0\EcoSphereHashVersion.dll
+C:\Users\Alex\source\repos\EcoSphereHashVersion\EcoSphereHashVersion\bin\Debug\net6.0\ref\EcoSphereHashVersion.dll
+C:\Users\Alex\source\repos\EcoSphereHashVersion\EcoSphereHashVersion\bin\Debug\net6.0\EcoSphereHashVersion.pdb
+C:\Users\Alex\source\repos\EcoSphereHashVersion\EcoSphereHashVersion\obj\Debug\net6.0\EcoSphereHashVersion.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\EcoSphereHashVersion\EcoSphereHashVersion\obj\Debug\net6.0\EcoSphereHashVersion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\EcoSphereHashVersion\EcoSphereHashVersion\obj\Debug\net6.0\EcoSphereHashVersion.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\EcoSphereHashVersion\EcoSphereHashVersion\obj\Debug\net6.0\EcoSphereHashVersion.AssemblyInfo.cs
+C:\Users\Alex\source\repos\EcoSphereHashVersion\EcoSphereHashVersion\obj\Debug\net6.0\EcoSphereHashVersion.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\EcoSphereHashVersion\EcoSphereHashVersion\obj\Debug\net6.0\EcoSphereHashVersion.dll
+C:\Users\Alex\source\repos\EcoSphereHashVersion\EcoSphereHashVersion\obj\Debug\net6.0\ref\EcoSphereHashVersion.dll
+C:\Users\Alex\source\repos\EcoSphereHashVersion\EcoSphereHashVersion\obj\Debug\net6.0\EcoSphereHashVersion.pdb
+C:\Users\Alex\source\repos\EcoSphereHashVersion\EcoSphereHashVersion\obj\Debug\net6.0\EcoSphereHashVersion.genruntimeconfig.cache
